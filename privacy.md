@@ -5,7 +5,11 @@ title: Privacy policy
 
 # Panel Pilot privacy policy — pre-release draft
 
-Status: published for internal testing and review preparation. Specialist review, final contact details, and an effective date are still required before public distribution.
+Status: published for internal testing and review preparation. Specialist review and an effective date are still required before public distribution.
+
+Panel Pilot is operated by Aydin Daniel Sareff-Hibbert in New South Wales, Australia.
+
+Privacy questions, requests, and complaints may be sent privately to [panelpilotcontact@proton.me](mailto:panelpilotcontact@proton.me).
 
 Panel Pilot is local-first and does not include advertising, tracking, analytics, or a Panel Pilot account. Comic pages, imported archives, downloads, panel detections, corrections, Moments, reading history, statistics, and source-reliability observations remain on the device unless the user explicitly exports or shares them.
 
@@ -15,10 +19,10 @@ The release configuration disables the compiled optional MangaBaka integration, 
 
 User-initiated extension safety reports contain only the extension or package identity, source identity if relevant, version, signing-certificate hash, relevant domain, selected reason, and optional comment. They never attach comic pages, title or chapter names, library data, search history, or reading history. Safety reporting remains disabled until the production service publishes its final log-minimisation, retention, and deletion periods.
 
-Copyright and rights reports submitted through the future monitored private contact may contain the reporter's identity, contact details, authority, claimed work, target extension or domain, explanation, statements, and signature. The effective policy must publish its purpose, access controls, disclosure rules, and retention and deletion periods before that channel opens. Reporters should not submit comic pages, credentials, reading history, or unrelated personal information.
+Copyright and rights reports submitted to the monitored private contact may contain the reporter's identity, contact details, authority, claimed work, target extension or domain, explanation, statements, and signature. The effective policy must publish its purpose, access controls, disclosure rules, and retention and deletion periods before public release. Reporters should not submit comic pages, credentials, reading history, or unrelated personal information.
 
 Backups exclude imported archives, downloads, extension packages, cookies, credentials, signing secrets, and caches. Credentials and extension trust records use Keychain and are not restored from backup.
 
 Users can pause and reset local statistics and source reliability independently, remove downloads and Moments, or delete the app to remove its application container.
 
-A final privacy contact and effective date will be added before this draft becomes effective.
+An effective date and specialist approval are required before this draft becomes effective.

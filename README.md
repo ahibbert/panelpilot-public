@@ -16,4 +16,4 @@ This repository publishes signed safety policy data and public release informati
 - [Immutable controlled fixture (v2)](review-fixture-v2/README.md)
 - [Immutable legacy fixture (v1)](review-fixture/README.md)
 
-The legal documents are published for internal testing and App Review preparation. They remain clearly marked as pre-release drafts until specialist review, operator identity, effective dates, jurisdiction wording, monitored contact details, and operational rehearsal are complete. The internal response runbook and App Review consultation dossier are deliberately not published here.
+The legal documents are published for internal testing and App Review preparation. They remain clearly marked as pre-release drafts until specialist review, effective dates, and operational rehearsal are complete. The internal response runbook and App Review consultation dossier are deliberately not published here.

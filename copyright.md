@@ -5,7 +5,9 @@ title: Copyright and rights complaints
 
 # Copyright and rights-complaint policy — pre-release draft
 
-Status: published for internal testing and review preparation. This policy is not yet effective. Specialist counsel must approve the operator identity, applicable jurisdiction, notice requirements, monitored private contact, retention period, counter-notice or appeal process, and repeat-offender treatment before release.
+Status: published for internal testing and review preparation. This policy is not yet effective. Specialist counsel must approve the notice requirements, retention period, counter-notice or appeal process, and repeat-offender treatment before release.
+
+Panel Pilot is operated by Aydin Daniel Sareff-Hibbert in New South Wales, Australia.
 
 Panel Pilot does not host or index comic content and does not ship a source catalogue. It does allow users to install third-party compatibility extensions and make direct requests from their devices. Rights holders and authorised representatives must nevertheless have a clear private way to report an extension, repository, domain, or app-controlled listing that allegedly facilitates unauthorised access.
 
@@ -19,7 +21,7 @@ The final private reporting channel will request only information reasonably nee
 - an explanation of the complained-of activity and claimed rights basis; and
 - any good-faith statement, accuracy statement, and signature required by applicable law.
 
-Reports should not include comic pages, credentials, reading history, or unrelated personal information. Do not post a formal notice as a public GitHub issue. The monitored private address is not yet configured; this is an intentional public-release blocker.
+Reports should be sent privately to [panelpilotcontact@proton.me](mailto:panelpilotcontact@proton.me) and should not include comic pages, credentials, reading history, or unrelated personal information. Do not post a formal notice as a public GitHub issue.
 
 ## Proposed response process
 
