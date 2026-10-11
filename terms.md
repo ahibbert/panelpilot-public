@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms
+---
+
 # Panel Pilot terms — pre-release draft
 
 Status: published for internal testing and review preparation. These terms are not yet effective and require specialist review, maintainer identity, jurisdiction wording, and contact details before public distribution.

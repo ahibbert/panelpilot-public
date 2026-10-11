@@ -1,0 +1,8 @@
+title: Panel Pilot
+description: Public policies, safety information, support, and controlled App Review fixtures for Panel Pilot.
+url: https://ahibbert.github.io
+baseurl: /panelpilot-public
+markdown: kramdown
+exclude:
+  - review-fixture/panelpilot-review-extension-1.0.0.apk
+  - review-fixture-v2/panelpilot-review-extension-2.0.0.apk

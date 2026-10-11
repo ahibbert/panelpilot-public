@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}Panel Pilot</title>
+  <style>
+    :root { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.6; color: #171717; background: #f5f3ee; }
+    body { margin: 0; }
+    header, main, footer { box-sizing: border-box; margin: 0 auto; max-width: 760px; padding: 1.25rem; }
+    header { display: flex; align-items: baseline; gap: 1rem; border-bottom: 1px solid #cbc6ba; }
+    header a { color: inherit; text-decoration: none; }
+    header nav { margin-left: auto; display: flex; flex-wrap: wrap; gap: .8rem; font-size: .9rem; }
+    main { min-height: 70vh; }
+    a { color: #8c2e23; }
+    code { overflow-wrap: anywhere; }
+    footer { border-top: 1px solid #cbc6ba; color: #5b574f; font-size: .85rem; }
+    @media (prefers-color-scheme: dark) {
+      :root { color: #f5f0e7; background: #171717; }
+      header, footer { border-color: #4b4741; }
+      a { color: #ff9c84; }
+      footer { color: #bcb5aa; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <strong><a href="{{ '/' | relative_url }}">Panel Pilot</a></strong>
+    <nav aria-label="Public information">
+      <a href="{{ '/privacy.html' | relative_url }}">Privacy</a>
+      <a href="{{ '/terms.html' | relative_url }}">Terms</a>
+      <a href="{{ '/age-suitability.html' | relative_url }}">Age suitability</a>
+      <a href="{{ '/extensions.html' | relative_url }}">Extensions</a>
+      <a href="{{ '/support.html' | relative_url }}">Support</a>
+    </nav>
+  </header>
+  <main>{{ content }}</main>
+  <footer>Panel Pilot supplies reader software, not comic content or an extension catalogue.</footer>
+</body>
+</html>

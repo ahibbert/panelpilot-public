@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy policy
+---
+
 # Panel Pilot privacy policy — pre-release draft
 
 Status: published for internal testing and review preparation. Specialist review, final contact details, and an effective date are still required before public distribution.

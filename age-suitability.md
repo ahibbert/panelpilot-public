@@ -1,3 +1,8 @@
+---
+layout: default
+title: Age suitability
+---
+
 # Age suitability and content controls
 
 Panel Pilot is intended for adults and is planned for an App Store 18+ age-rating override. The application supplies a reader, not a catalogue, and users manually choose local archives and third-party extension repositories.

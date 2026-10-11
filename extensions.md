@@ -1,3 +1,8 @@
+---
+layout: default
+title: Extension policy
+---
+
 # Third-party extension metadata policy
 
 Panel Pilot ships no extension catalogue and does not promote repositories. Users manually enter repository URLs and review each extension's package identity, signing certificate, requested network domains, version, language, and content classification before installation.

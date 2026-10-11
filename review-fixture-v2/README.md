@@ -1,3 +1,8 @@
+---
+layout: default
+title: Controlled review fixture v2
+---
+
 # Controlled review fixture v2
 
 This directory contains Panel Pilot's current original, non-adult App Review fixture. It demonstrates manual repository installation, authenticated APK identity, resource-backed extension settings, source browsing, chapter/page resolution, and guided panel reading without listing or endorsing a third-party catalogue.

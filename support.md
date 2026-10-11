@@ -1,3 +1,8 @@
+---
+layout: default
+title: Support
+---
+
 # Panel Pilot support — pre-release
 
 Panel Pilot is currently preparing for internal TestFlight. For pre-release defects or security concerns, use the issue tracker for this repository and avoid including comic pages, credentials, private repository URLs, reading history, or other personal data.
