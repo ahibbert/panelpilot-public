@@ -23,5 +23,5 @@ This v1 fixture is immutable. Replacing its bytes, index identity, or signing ce
 See [ARTWORK.md](ARTWORK.md) for the page's creation record and hash.
 
 The same original page is also available as a deterministic, non-executable
-[CBZ import fixture](files/README.md) for the document-picker review path. It is
+[CBZ import fixture](files/) for the document-picker review path. It is
 separate from the extension APK and can be read entirely offline after import.
