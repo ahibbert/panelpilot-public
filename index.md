@@ -17,6 +17,8 @@ Panel Pilot includes no content catalogue, account, proxy, advertising, tracking
 - [Third-party extension metadata policy](extensions.html)
 - [Support and security reporting](support.html)
 
-## App Review fixture
+## App Review fixtures
 
-The [controlled review fixture v2](review-fixture-v2/README.html) contains original, non-adult artwork and a source-only extension used to demonstrate Panel Pilot's manual repository, security-review, resource-backed settings, browsing, download, and guided-reading flows. It is not an extension catalogue.
+The [controlled review fixture v3](review-fixture-v3/README.html) contains original, non-adult artwork and a DEX-only extension used to demonstrate Panel Pilot's manual repository, security-review, resource-backed settings, browsing, download, content controls, and guided-reading flows. It is not an extension catalogue.
+
+The same original CC0 page is available as a [deterministic CBZ import fixture](review-fixture/files/README.html) for the document-picker, `ComicInfo.xml`, offline-reading, and local panel-detection review path. It contains no script, extension, credential, remote URL, or executable content.

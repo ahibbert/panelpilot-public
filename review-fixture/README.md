@@ -21,3 +21,7 @@ The APK is signed with Android signature schemes v2 and v3 and contains DEX byte
 This v1 fixture is immutable. Replacing its bytes, index identity, or signing certificate in place would violate the app's signer-continuity guarantee. Any future replacement must be published as a new explicitly versioned review fixture and must not silently update an installed package.
 
 See [ARTWORK.md](ARTWORK.md) for the page's creation record and hash.
+
+The same original page is also available as a deterministic, non-executable
+[CBZ import fixture](files/README.md) for the document-picker review path. It is
+separate from the extension APK and can be read entirely offline after import.

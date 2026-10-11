@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo>
+  <Title>Panel Pilot Sample</Title>
+  <Series>Panel Pilot Sample</Series>
+  <Number>1</Number>
+  <Count>1</Count>
+  <Volume>1</Volume>
+  <Summary>An original action-manga page for testing private, on-device guided reading.</Summary>
+  <Writer>Panel Pilot</Writer>
+  <Penciller>Panel Pilot</Penciller>
+  <Genre>Action, Manga</Genre>
+  <PageCount>1</PageCount>
+  <LanguageISO>en</LanguageISO>
+  <Manga>YesAndRightToLeft</Manga>
+  <AgeRating>Everyone</AgeRating>
+  <Pages>
+    <Page Image="0" Type="FrontCover" />
+  </Pages>
+</ComicInfo>
