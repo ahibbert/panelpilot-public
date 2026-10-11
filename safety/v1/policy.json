@@ -1,15 +1,21 @@
 {
   "policy": {
-    "version": 1,
-    "issuedAt": "2026-10-11T00:00:00Z",
-    "expiresAt": "2027-01-11T00:00:00Z",
+    "version": 2,
+    "issuedAt": "2026-10-11T23:00:00Z",
+    "expiresAt": "2027-01-12T00:00:00Z",
     "revokedRepositories": [],
     "revokedPackages": [],
     "revokedSigningFingerprints": [],
     "blockedDomains": [],
     "minimumSafeVersions": {},
     "adultOnlyRepositories": [],
-    "contentClassifications": {}
+    "contentClassifications": {},
+    "rightsClassifications": {
+      "org.panelpilot.fixture": "public-domain"
+    },
+    "downloadPermissions": {
+      "org.panelpilot.fixture": true
+    }
   },
-  "signature": "/pnc+weENT/LB0McbeTYp5QVJzuXtx3YfZBoD/7axdG7MKhxNU9bdtvBIBknlNRNd+UTE0H5YEhOfaEeKcSDDQ=="
+  "signature": "kMf53M/e9VY3ymY0EhAwdSLeEPXAiTxy4zrhksH4AfDA8dKw+xcoI2JNdxXljRlwsAUIRcDWJw8B3WDIaFPmBQ=="
 }
