@@ -9,7 +9,8 @@ This repository publishes signed safety policy data and public release informati
 - [Age suitability and content controls](age-suitability.md)
 - [Extension metadata policy](extensions.md)
 - [Support](support.md)
-- [Current controlled App Review fixture (v3)](review-fixture-v3/README.md)
+- [Current controlled App Review fixture (v4)](review-fixture-v4/README.md)
+- [Immutable controlled fixture (v3)](review-fixture-v3/README.md)
 - [Immutable controlled fixture (v2)](review-fixture-v2/README.md)
 - [Immutable legacy fixture (v1)](review-fixture/README.md)
 
