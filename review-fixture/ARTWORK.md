@@ -14,3 +14,7 @@ Prompt summary:
 > Create an original portrait black-and-white manga action page with six clearly separated panels. Show an original athletic courier on a futuristic rooftop spotting a gap, accelerating, leaping, twisting, and landing. Use crisp ink and grey screentone, with no text, logos, watermark, gore, weapons, sexual content, copyrighted characters, or named-artist imitation.
 
 This provenance record applies only to the image at the hash above. If the image changes, update the hash and generation record in the same commit.
+
+## Licence
+
+To the extent copyright or related rights exist in this original fixture image, the Panel Pilot maintainers dedicate those rights to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). The image may be copied, modified, and redistributed without permission. No trademark rights are granted.
