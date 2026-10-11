@@ -1,0 +1,30 @@
+{
+  "name": "Panel Pilot controlled review fixtures",
+  "badgeLabel": "Official review fixture",
+  "signingKey": "8d2c9a2fe0c658518263f703e7e08b2f3b0397a135aed7970353b18d8d14d83d",
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Panel Pilot Review Fixture",
+        "packageName": "org.panelpilot.fixture",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/ahibbert/panelpilot-public/main/review-fixture/panelpilot-review-extension-1.0.0.apk",
+          "iconUrl": "https://raw.githubusercontent.com/ahibbert/panelpilot-public/main/review-fixture/pages/001.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 1,
+        "versionName": "1.0.0",
+        "contentWarning": "SAFE",
+        "sources": [
+          {
+            "id": "730812342957122",
+            "name": "Panel Pilot Review Fixture",
+            "language": "en",
+            "homeUrl": "https://raw.githubusercontent.com",
+            "mirrorUrls": []
+          }
+        ]
+      }
+    ]
+  }
+}

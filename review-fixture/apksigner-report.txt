@@ -1,0 +1,18 @@
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v3.2 scheme (APK Signature Scheme v3.2): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+V3.0 Signer: certificate DN: CN=Panel Pilot Runtime Fixture, O=Panel Pilot, C=AU
+V3.0 Signer: certificate SHA-256 digest: 8d2c9a2fe0c658518263f703e7e08b2f3b0397a135aed7970353b18d8d14d83d
+V3.0 Signer: certificate SHA-1 digest: 106abc6e2069d548ac894d7ef4996e8b6bfa70d2
+V3.0 Signer: certificate MD5 digest: 9f8b7496e0ce2df88299dce4720a4f8e
+V3.0 Signer: key algorithm: RSA
+V3.0 Signer: key size (bits): 2048
+V3.0 Signer: public key SHA-256 digest: 618c624c88b8ddd631dcd90cf0900e7b8a9f9ac18612edfdd5fb58e415c0647b
+V3.0 Signer: public key SHA-1 digest: ff2f9490e6a47da71ef945f5a187b764dc93e4a6
+V3.0 Signer: public key MD5 digest: 1dc830b93ba45e00851b0e0b85083e21

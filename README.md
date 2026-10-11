@@ -9,5 +9,6 @@ This repository publishes signed safety policy data and public release informati
 - [Age suitability and content controls](age-suitability.md)
 - [Extension metadata policy](extensions.md)
 - [Support](support.md)
+- [Controlled App Review fixture](review-fixture/README.md)
 
 The legal documents are published for internal testing and App Review preparation. They remain clearly marked as pre-release drafts until specialist review and maintainer contact details are complete.
