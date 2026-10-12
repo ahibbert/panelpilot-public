@@ -7,7 +7,7 @@ title: Public information
 
 Panel Pilot is a private, local-first iPhone and iPad reader for user-owned manga, comics, and webtoons. Automatic guided reading detects panels on-device; page images do not leave the device for detection.
 
-Panel Pilot includes no content catalogue, default source, Panel Pilot account, proxy, advertising, tracking, or silent telemetry. Users may import owned CBZ/ZIP archives or manually enter a third-party extension-repository URL. Installation and technical identity checks do not establish content rights or permission to use a third-party service.
+Panel Pilot includes no content catalogue, default source, account, proxy, advertising, tracking, or silent telemetry. Users may import owned CBZ/ZIP archives or connect a Komga/Kavita server they control or are authorised to use. Advanced compatibility settings permit a manually entered third-party repository or a directly selected APK; installation and technical identity checks do not establish content rights or service permission.
 
 ## Policies and support
 

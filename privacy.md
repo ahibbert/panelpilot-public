@@ -17,7 +17,9 @@ When a user configures a third-party extension, requests go directly from the de
 
 Rights-unverified extensions use process-lifetime, source-isolated cookie storage by default. An advanced setting can permit source-scoped Keychain persistence. Authentication always occurs in a visible nonpersistent browser, and extensions receive no direct Keychain, browser, or filesystem access.
 
-The optional MangaBaka connection sends requests directly from the device to MangaBaka. Its personal access token is stored in the iOS Keychain. Searching to link a title sends the entered title query. Account recommendations identify the connected MangaBaka account. If progress sync is separately enabled, Panel Pilot sends only the linked MangaBaka series ID, reading status, and completed chapter number. It does not send comic pages, source URLs, Moments, reading time, or unlinked library entries.
+When a user connects a Komga or Kavita server they control or are authorised to use, OPDS requests go directly from the device to that configured server. The catalogue URL and credentials are stored in Keychain and excluded from backups. Public hosts require HTTPS; explicit local-network HTTP is accepted only for loopback, private-address, or `.local` servers. Archive acquisitions are user-initiated.
+
+The release configuration disables the compiled optional MangaBaka integration, so it does not send account, title, recommendation, or progress data. If a later reviewed release enables it, this policy and the App Store disclosure must first be updated to cover direct MangaBaka requests, Keychain token storage, title matching, and opt-in progress sync.
 
 User-initiated extension safety reports contain only the extension or package identity, source identity if relevant, version, signing-certificate hash, relevant domain, selected reason, and optional comment. They never attach comic pages, title or chapter names, library data, search history, or reading history. Safety reporting remains disabled until the production service publishes its final log-minimisation, retention, and deletion periods.
 
@@ -25,6 +27,6 @@ Copyright and rights reports submitted to the monitored private contact may cont
 
 Backups exclude imported archives, downloads, extension packages, cookies, credentials, signing secrets, and caches. Credentials and extension trust records use Keychain and are not restored from backup.
 
-Users can pause and reset local statistics and source reliability independently, remove downloads and Moments, disconnect MangaBaka, or delete the app to remove its application container.
+Users can pause and reset local statistics and source reliability independently, remove downloads and Moments, or delete the app to remove its application container.
 
 An effective date and specialist approval are required before this draft becomes effective.
