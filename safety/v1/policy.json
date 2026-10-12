@@ -1,8 +1,8 @@
 {
   "policy": {
-    "version": 2,
-    "issuedAt": "2026-10-11T23:00:00Z",
-    "expiresAt": "2027-01-12T00:00:00Z",
+    "version": 3,
+    "issuedAt": "2026-10-12T00:00:00Z",
+    "expiresAt": "2027-04-12T00:00:00Z",
     "revokedRepositories": [],
     "revokedPackages": [],
     "revokedSigningFingerprints": [],
@@ -11,11 +11,11 @@
     "adultOnlyRepositories": [],
     "contentClassifications": {},
     "rightsClassifications": {
-      "org.panelpilot.fixture": "public-domain"
+      "org.panelpilot.fixture|b095a74146ab120142027e7969e6ec0e85ee7f2ebe242e635a65dea95101afd1": "public-domain"
     },
     "downloadPermissions": {
-      "org.panelpilot.fixture": true
+      "org.panelpilot.fixture|b095a74146ab120142027e7969e6ec0e85ee7f2ebe242e635a65dea95101afd1": true
     }
   },
-  "signature": "kMf53M/e9VY3ymY0EhAwdSLeEPXAiTxy4zrhksH4AfDA8dKw+xcoI2JNdxXljRlwsAUIRcDWJw8B3WDIaFPmBQ=="
+  "signature": "2yzMtEBscG3p9IyEAbFiVqzGCrQk59A4P8HV88JQCSZP+/ogwPQjTcH9e5jI9mAl71zjfelwPcycvspM3goYDQ=="
 }

@@ -10,6 +10,7 @@ title: org.panelpilot.fixture
 - Current reviewed release: `4.0.0` (`4`)
 - Rights basis: original Panel Pilot material released under CC0
 - Signing certificate SHA-256: `b095a74146ab120142027e7969e6ec0e85ee7f2ebe242e635a65dea95101afd1`
+- Signed-policy identity: `org.panelpilot.fixture|b095a74146ab120142027e7969e6ec0e85ee7f2ebe242e635a65dea95101afd1`
 - Repository URL: `https://raw.githubusercontent.com/ahibbert/panelpilot-public/main/review-fixture-v4/index.json`
 - Full technical record: [controlled review fixture v4](../review-fixture-v4/README.html)
 

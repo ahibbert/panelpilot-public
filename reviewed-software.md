@@ -13,7 +13,7 @@ This index is deliberately separate from third-party repositories. It lists only
 
 - Package: `org.panelpilot.fixture`
 - Current reviewed release: `4.0.0` (`4`)
-- Rights basis: original Panel Pilot test material released under CC0
+- Rights basis: original Panel Pilot test material released under CC0; the signed decision is bound to the package plus published signing certificate
 - Operator: Panel Pilot
 - Source purpose: App Review and security testing only
 - Network scope: controlled files published in this repository
@@ -25,7 +25,7 @@ This is currently the only rights-reviewed extension identity. No independent th
 
 ## What “reviewed” means
 
-A listing requires evidence tied to the exact package and operator identity. At minimum, review considers the software's signer, reproducible or otherwise documented provenance, declared network hosts, licence or written authorisation, content-rights basis, security behaviour, and a contact capable of responding to notices. Status can be narrowed, suspended, or revoked through the signed safety policy.
+A listing requires evidence tied to the exact package and signing-certificate identity. At minimum, review considers the software's signer, reproducible or otherwise documented provenance, declared network hosts, licence or written authorisation, content-rights basis, security behaviour, and a contact capable of responding to notices. Status can be narrowed, suspended, or revoked through the signed safety policy.
 
 Cryptographic signature verification alone proves only that APK releases share a signing identity. It does not prove copyright ownership, permission from a content service, or authority to distribute works.
 
