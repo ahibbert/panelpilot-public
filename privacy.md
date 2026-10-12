@@ -17,8 +17,6 @@ When a user configures a third-party extension, requests go directly from the de
 
 Rights-unverified extensions use process-lifetime, source-isolated cookie storage by default. An advanced setting can permit source-scoped Keychain persistence. Authentication always occurs in a visible nonpersistent browser, and extensions receive no direct Keychain, browser, or filesystem access.
 
-When a user connects a Komga or Kavita server they control or are authorised to use, OPDS requests go directly from the device to that configured server. The catalogue URL and credentials are stored in Keychain and excluded from backups. Public hosts require HTTPS; explicit local-network HTTP is accepted only for loopback, private-address, or `.local` servers. Archive acquisitions are user-initiated.
-
 The release configuration disables the compiled optional MangaBaka integration, so it does not send account, title, recommendation, or progress data. If a later reviewed release enables it, this policy and the App Store disclosure must first be updated to cover direct MangaBaka requests, Keychain token storage, title matching, and opt-in progress sync.
 
 User-initiated extension safety reports contain only the extension or package identity, source identity if relevant, version, signing-certificate hash, relevant domain, selected reason, and optional comment. They never attach comic pages, title or chapter names, library data, search history, or reading history. Safety reporting remains disabled until the production service publishes its final log-minimisation, retention, and deletion periods.
