@@ -29,6 +29,8 @@ The operator will preserve the notice and decision record, promptly assess credi
 
 Where appropriate and lawful, the extension operator should receive the substance of the complaint and a fair opportunity to respond. The effective policy must describe the final counter-notice or appeal process, restoration criteria, repeat-offender treatment, retention, and disclosure rules.
 
+The current pre-release workflow is described in the [notice review and appeal process](appeals.html). It is an operational process, not a representation that Panel Pilot qualifies for any statutory safe harbour.
+
 Panel Pilot does not claim any statutory safe harbour through this draft. Any such claim would require counsel to confirm eligibility and every legal and operational requirement, including any required registered agent.
 
 Package signing, a safety review, or a rights-policy label is never proof that every item exposed by a dynamic third-party service is authorised.
